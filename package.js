@@ -1,7 +1,7 @@
 /* global Package */
 
 Package.describe({
-  name: 'liberation:meteor-inject-raw-html',
+  name: 'liberation:inject-raw-html',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Expose method Spacebars.SafeString as Blaze.injectRawHtml',
